@@ -18,7 +18,7 @@
  
 ## 📂 Projektid
  
-- [**DACA Portfoolio**](https://github.com/sirjah-hash/daca-portfolio) - 11-nädalane õppeprojektid
+- [**DACA Portfoolio**](https://github.com/sirja-hass/daca-portfolio) - 11-nädalane õppeprojektid
  
 ## 📫 Kontakt
  
