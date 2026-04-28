@@ -1,4 +1,4 @@
-# sirjahas-hash
+# sirja-hass
 # Tere! 👋 Mina olen Sirja Hass
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
