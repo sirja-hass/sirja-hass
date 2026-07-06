@@ -1,31 +1,23 @@
-# sirja-hass
-# Tere! 👋 Mina olen Sirja Hass
- 
-## 🎯 Andmeanalüütiku Karjääri Algus
- 
-Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
- 
-## 🛠️ Tehnoloogiad, mida õpin
- 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
- 
-- **Andmebaasid:** PostgreSQL, Supabase
-- **Programmeerimiskeeled:** Python (pandas, plotly)
-- **Visualiseerimine:** Power BI, Streamlit
-- **Versioonihaldus:** Git, GitHub
- 
-## 📂 Projektid
- 
-- [**DACA Portfoolio**](https://github.com/sirja-hass/daca-portfolio) - 11-nädalane õppeprojektid
- 
-## 📫 Kontakt
- 
-- **Email:** sirja.hass@gmail.com
+# Tere, olen Sirja Hass
 
- 
----
- 
-_"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
+Olen alustav andmeanalüütik, kes muudab andmed selgeteks ärilisteks järeldusteks.
 
+## Oskused
+
+- SQL — andmete puhastamine, JOIN-id ja agregatsioonid
+- Python — pandas, Plotly, API-d ja ETL
+- Power BI — dashboardid ja andmelood
+- Git ja GitHub
+
+## Valitud projektid
+
+- [DACA portfoolio](https://github.com/sirjahs-hash/daca-portfolio)  
+  SQL-i, Power BI ja Pythoni projektid koos äriliste järeldustega.
+
+- [Elektritarbimise optimeerimine](https://github.com/sirja-hass/Elektritarbimise_optimeerimine_kasvuhoones)  
+  Elektrihinna ja ilmaandmete põhjal koostatud analüüs.
+
+## Kontakt
+
+- LinkedIn: https://www.linkedin.com/in/sirja-hass
+- E-post: sirjahass@gmail.com
