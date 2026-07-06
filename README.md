@@ -4,10 +4,14 @@ Olen alustav andmeanalüütik, kes muudab andmed selgeteks ärilisteks järeldus
 
 ## Oskused
 
-- SQL — andmete puhastamine, JOIN-id ja agregatsioonid
-- Python — pandas, Plotly, API-d ja ETL
-- Power BI — dashboardid ja andmelood
-- Git ja GitHub
+- **SQL ja PostgreSQL:** andmemudelid, staging- ja mart-kihid, transformatsioonid
+- **Python:** pandas, Requests, API-integratsioonid ja ETL-pipeline’id
+- **Visualiseerimine:** Power BI
+- **API-d:** Open-Meteo, Elering NPS ja Supabase
+- **Automatiseerimine:** Cron, ajastatud andmevärskendused ja veakäsitlus
+- **Docker:** Docker Compose’i põhine arendus- ja käivituskeskkond
+- **Andmeanalüüs:** KPI-d, RFM-segmenteerimine ja reeglipõhine optimeerimine
+- **Versioonihaldus:** Git ja GitHub
 
 ## Valitud projektid
 
